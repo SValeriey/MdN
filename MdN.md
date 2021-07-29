@@ -9,7 +9,7 @@
 特点：将预览和源代码模式结合，实现所见即所得
 下载地址 https://typora.io/
 建议如下经由 Typora界面-文件-偏好设置-Markdown设置 将拓展语法开启
-![](MdN_Images\拓展语法.png)
+![](https://github.com/SValeriey/MdN/blob/main/MdN_Images/%E6%8B%93%E5%B1%95%E8%AF%AD%E6%B3%95.png?raw=true)
 
 ### 快捷键收录
 *CTRL+L*:	来回切换源代码模式和预览模式
@@ -30,7 +30,7 @@
 ###### 六级标题
 ```
 效果如下:
-![](C:\Users\sybst\Desktop\MdN\标题.png)
+![](https://github.com/SValeriey/MdN/blob/main/MdN_Images/%E6%A0%87%E9%A2%98.png?raw=true)
 
 ### 字体
 在文本两边分别加单个 *(星号) 包围表示斜体	`*斜体*`; 加两个 *(星号) 包围表示粗体	`**粗体**`'; 三个 *(星号) 表示斜体加粗	`***斜体加粗***`
@@ -38,7 +38,7 @@
 在文本两边分别加两个 ~(波浪线) 表示删除线		`~~删除线~~`
 在文本两边分别加 ^(指数) 表示上标	`我是^上标^`; 加 ~(波浪线) 表示下标	`我是~下标~`
 以上代码的效果如下:
-![](C:\Users\sybst\Desktop\MdN\字体.jpg)
+![](https://github.com/SValeriey/MdN/blob/main/MdN_Images/%E5%AD%97%E4%BD%93.jpg?raw=true)
 
 ### 列表
 
@@ -51,7 +51,7 @@
 4. 四级有序列表
 ```
 效果如下:
-![](C:\Users\sybst\Desktop\MdN\有序列表.png)
+![](https://github.com/SValeriey/MdN/blob/main/MdN_Images/%E6%9C%89%E5%BA%8F%E5%88%97%E8%A1%A8.png?raw=true)
 
 #### 无序列表
 无序列表通过 +(加号) 和空格表示,回车后会自动添加同一级列表
@@ -65,7 +65,7 @@
 			+ 四级无序列表
 ```
 效果如下:
-![](C:\Users\sybst\Desktop\MdN\无序列表.png)
+![](https://github.com/SValeriey/MdN/blob/main/MdN_Images/%E6%97%A0%E5%BA%8F%E5%88%97%E8%A1%A8.png?raw=true)
 
 ### 表格
 
@@ -79,7 +79,7 @@
 |Hello|Hi|
 |hello|hi|
 ```
-![](C:\Users\sybst\Desktop\MdN\表格.png)
+![](https://github.com/SValeriey/MdN/blob/main/MdN_Images/%E8%A1%A8%E6%A0%BC.png?raw=true)
 
 #### 预览模式下插入表格
 Typora预览模式下,可以使用快捷键*CTRL+T*快速插入表格
@@ -98,12 +98,12 @@ Typora预览模式下,可以使用快捷键*CTRL+T*快速插入表格
 ```markdown
 `单独代码`
 ```
-![](C:\Users\sybst\Desktop\MdN\单独代码.png)
+![](https://github.com/SValeriey/MdN/blob/main/MdN_Images/%E5%8D%95%E7%8B%AC%E4%BB%A3%E7%A0%81.png?raw=true)
 
 #### 代码段
 用三个 ` 包围起来的文本表示代码段,并且可以指定语言
-![](C:\Users\sybst\Desktop\MdN\代码段1.png)
-![](C:\Users\sybst\Desktop\MdN\代码段2.png)
+![](https://github.com/SValeriey/MdN/blob/main/MdN_Images/%E4%BB%A3%E7%A0%81%E6%AE%B51.png?raw=true)
+![](https://github.com/SValeriey/MdN/blob/main/MdN_Images/%E4%BB%A3%E7%A0%81%E6%AE%B52.png?raw=true)
 
 ### 图片
 图片采用`![](文件路径)`的形式
@@ -115,4 +115,4 @@ Typora预览模式下,可以使用快捷键*CTRL+T*快速插入表格
 > > Hello Markdown
 > > > Hello Typora
 ```
-![](C:\Users\sybst\Desktop\MdN\引用.png)
+![](https://github.com/SValeriey/MdN/blob/main/MdN_Images/%E5%BC%95%E7%94%A8.png?raw=true)
