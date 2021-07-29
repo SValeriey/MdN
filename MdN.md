@@ -9,7 +9,7 @@
 特点：将预览和源代码模式结合，实现所见即所得
 下载地址 https://typora.io/
 建议如下经由 Typora界面-文件-偏好设置-Markdown设置 将拓展语法开启
-![](MdN_Images\拓展语法.png)
+![](https://github.com/SValeriey/MdN/blob/main/MdN_Images/%E6%8B%93%E5%B1%95%E8%AF%AD%E6%B3%95.png?raw=true)
 
 ### 快捷键收录
 *CTRL+L*:	来回切换源代码模式和预览模式
